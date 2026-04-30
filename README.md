@@ -49,7 +49,7 @@ Survivors paid a mean fare of **~£48.40** vs **~£22.12** for non-survivors. Th
 
 ## 📊 Dashboard Screenshot
 
-![Titanic EDA Dashboard](ai_ml week2 sameed ul hassan dashboard image.png)
+![Titanic EDA Dashboard](ai_ml_week2_sameed_dashboard_image.png)
 
 > *6-chart EDA dashboard: survival by class, age KDE distributions, fare box plots by class (log scale), Pclass × Sex heatmap, family size survival curve, and title-based stacked bar chart.*
 
